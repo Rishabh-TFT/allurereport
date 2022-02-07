@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Fri Feb 04 09:01:28 UTC 2022","Fri Feb 04 09:06:34 UTC 2022","305315","","test_templates_run","","","","test_verify_template_page_after_login","/builds/easyhi/qa-sanity-automation/feature_files/test_templates.feature: Verify template page after login"
+"passed","Fri Feb 04 09:01:28 UTC 2022","Fri Feb 04 09:01:59 UTC 2022","30992","","test_templates_run","","","","test_verify_template_page_without_login","/builds/easyhi/qa-sanity-automation/feature_files/test_templates.feature: Verify template page without login"

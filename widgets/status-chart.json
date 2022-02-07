@@ -1,0 +1,21 @@
+[ {
+  "uid" : "23f5377a8dee38ee",
+  "name" : "test_verify_template_page_after_login",
+  "time" : {
+    "start" : 1643965288894,
+    "stop" : 1643965594209,
+    "duration" : 305315
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "df54eae7b5ac7bf9",
+  "name" : "test_verify_template_page_without_login",
+  "time" : {
+    "start" : 1643965288894,
+    "stop" : 1643965319886,
+    "duration" : 30992
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

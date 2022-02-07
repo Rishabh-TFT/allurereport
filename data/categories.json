@@ -1,0 +1,30 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: ('I customize template', <module 'traceback' from '/usr/local/lib/python3.10/traceback.py'>)",
+      "children" : [ {
+        "name" : "test_verify_template_page_after_login",
+        "uid" : "23f5377a8dee38ee",
+        "parentUid" : "c6caa5153cdc799bb0cd29dca4fe0c53",
+        "status" : "failed",
+        "time" : {
+          "start" : 1643965288894,
+          "stop" : 1643965594209,
+          "duration" : 305315
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c6caa5153cdc799bb0cd29dca4fe0c53"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

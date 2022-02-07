@@ -1,0 +1,51 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "runner-im8xmk4p-project-25-concurrent-0",
+    "children" : [ {
+      "name" : "2899-MainThread",
+      "children" : [ {
+        "name" : "test_verify_template_page_after_login",
+        "uid" : "23f5377a8dee38ee",
+        "parentUid" : "21c7a9fd71e7acca1b94c2a3b9103ef4",
+        "status" : "failed",
+        "time" : {
+          "start" : 1643965288894,
+          "stop" : 1643965594209,
+          "duration" : 305315
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "21c7a9fd71e7acca1b94c2a3b9103ef4"
+    }, {
+      "name" : "2896-MainThread",
+      "children" : [ {
+        "name" : "test_verify_template_page_without_login",
+        "uid" : "df54eae7b5ac7bf9",
+        "parentUid" : "434b7f0141dcf0af68b7c9c8598bd3b9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643965288894,
+          "stop" : 1643965319886,
+          "duration" : 30992
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "434b7f0141dcf0af68b7c9c8598bd3b9"
+    } ],
+    "uid" : "72e24f1d170c6710ba33a4b42e818fde"
+  } ]
+}

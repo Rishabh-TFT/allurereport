@@ -1,0 +1,41 @@
+{
+  "337f076eee1ef3ba84e523095f01bea4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "df54eae7b5ac7bf9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643965288894,
+        "stop" : 1643965319886,
+        "duration" : 30992
+      }
+    } ]
+  },
+  "ab95c69d47b9211197bd51d1dc9f89d8" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "23f5377a8dee38ee",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: ('I customize template', <module 'traceback' from '/usr/local/lib/python3.10/traceback.py'>)",
+      "time" : {
+        "start" : 1643965288894,
+        "stop" : 1643965594209,
+        "duration" : 305315
+      }
+    } ]
+  }
+}
